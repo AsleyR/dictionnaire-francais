@@ -1,0 +1,151 @@
+﻿verbe,qqch,qqn,vi,remarques
+s'abstenir,de qqch,null,de faire qqch,null
+accepter,qqch,null,de faire qqch,null
+acheter,qqch,à qqn,null,null
+s'adapter,à qqch,à qqn,null,null
+adresser,qqch,à qqn,null,null
+s'adresser,null,à qqn,null,null
+aider,null,qqn,à faire qqch,null
+aimer,null,qqn,faire qqch,null
+aller,null,null,faire qqch,null
+s'amuser,à qqch,null,à faire qqch,null
+annoncer,qqch,à qqn,null,null
+apercevoir,qqch,qqn,null,null
+s'apercevoir,de qqch,null,null,null
+appeler,null,qqn,null,null
+s'appliquer,à qqch,null,à faire qqch,null
+apporter,qqch,à qqn,null,null
+apprendre,qqch,à qqn | de qqn,à faire qqch,…à l'élève | …du professeur
+arrêter,qqch,qqn,de faire qqch,null
+s'arrêter,null,null,de faire qqch,null
+attendre,qqch,qqn,null,null
+s'attendre,à qqch,null,à faire qqch,null
+avoir,qqch,qqn,à faire qqch,null
+blesser,null,qqn,null,null
+brosser,qqch,de qqn,null,null
+cacher,qqch,à qqn,null,mais on cache qqn
+cesser,qqch,null,de faire qqch,null
+chanter,qqch,à qqn,null,null
+chercher,qqch,qqn,à faire qqch,null
+choisir,qqch,qqn,de faire qqch,null
+commencer,qqch,null,à faire qqch,null
+confirmer,qqch,à qqn,null,null
+conseiller,qqch,à qqn,de faire qqch,null
+continuer,qqch,null,de faire qqch,null
+contribuer,null,null,à faire qqch,null
+convaincre,null,qqn,de faire qqch,null
+craindre,qqch,qqn,de faire qqch,null
+critiquer,qqch,qqn,null,null
+croire,qqch,qqn,faire qqch,null
+décider,qqch,qqn,à faire qqch,null
+se décider,null,null,à faire qqch,null
+demander,qqch,à qqn,de faire qqch,mais je demande à faire qqch
+dépendre,de qqch,de qqn,null,null
+désirer,qqch,qqn,faire qqch,null
+détester,qqch,qqn,faire qqch,null
+devenir,qqch,qqn,null,null
+devoir,qqch,à qqn,faire qqch,null
+dire,qqch,à qqn,de faire qqch,null
+donner,qqch,à qqn,à faire qqch,null
+écrire,qqch,à qqn,null,null
+écouter,qqch,qqn,faire qqch,null
+empêcher,qqch,qqn,de faire qqch,null
+emprunter,qqch,à qqn,null,null
+encourager,null,qqn,à faire qqch,null
+s'ennuyer,de qqch,de qqn,de faire qqch,null
+enseigner,qqch,à qqn,à faire qqch,null
+entendre,qqch,qqn,faire qqch,null
+entendre parler,de qqch,de qqn,null,null
+envoyer,qqch,à qqn,null,null
+espérer,qqch,de qqn,faire qqch,null
+essayer,qqch,null,de faire qqch,null
+éviter,qqch,qqn,de faire qqch,null
+excuser,qqch,qqn,de faire qqch,null
+s'excuser,de qqch,null,de faire qqch,null
+exiger,qqch,de qqn,de faire qqch,null
+expliquer,qqch,à qqn,null,null
+faire,qqch,à qqn,null,null
+falloir,qqch,qqn,faire qqch,null
+se fatiguer,de qqch,de qqn,de faire qqch,null
+féliciter,de qqch,qqn,de faire qqch,null
+se fier,null,à qqn,null,null
+finir,qqch,null,de faire qqch,null
+habituer,null,qqn,à faire qqch,null
+s'habituer,à qqch,à qqn,à faire qqch,null
+hésiter,null,null,à faire qqch,null
+interdire,qqch,à qqn,de faire qqch,null
+s'intéresser,à qqch,à qqn ,null,null
+inviter,null,qqn,à faire qqch,null
+jouer,à qqch | de qqch,null,à faire qqch,…à un sport | …de la musique
+laisser,qqch,à qqn / qqn,faire qqch,null
+lire,qqch,à qqn,null,null
+louer,qqch,à qqn,null,null
+manquer,qqch | de qqch,qqn | à qqn,de faire qqch,de = manque | à - sentiments
+se méfier,de qqch,de qqn,null,null
+menacer,null,qqn,de faire qqch,null
+mériter,qqch,null,de faire qqch, null
+mettre du temps,null,null,à faire qqch,null
+se mettre,à qqch,null,à faire qqch,null
+montrer,qqch,à qqn,null,null
+négliger,qqch,qqn,de faire qqch,null
+obliger,null,qqn,à faire qqch,null
+obtenir,qqch,de qqn,null,null
+s'occuper,de qqch,de qqn,de faire qqch,null
+offrir,qqch,à qqn,null,mais on offre à qqn de faire qqch
+s'opposer,à qqch,à qqn,null,null
+oser,qqch,null,faire qqch,mais on ose faire qqch à qqn
+oublier,qqch,qqn,de faire qqch,null
+parler,de qqch,à qqn |0 de qqn,de faire qqch,…de qqn d'absent
+pardonner,qqch,à qqn,null,null
+passer,qqch,à qqn,faire qqch,null
+payer,qqch,qqn,null,mais payer qqch à qqn
+penser,à qqch | qqch,à qqn | de qqn,à faire qqch,de = opinion & idée
+perdre,qqch,qqn,null,null
+perdre du temps,à qqch,avec qqn,à faire qqch,null
+permettre,qqch,à qqn,de faire qqch,null
+persuader,null,qqch,de faire qqch,null
+se plaindre,de qqch,de qqn,de faire qqch,null
+porter,qqch,qqn,null,null
+pouvoir,null,null,faire qqch,null
+préférer,qqch,qqn,faire qqch,null
+prendre,qqch,qqn,null,null
+prendre plaisir,null,null,à faire qqch,null
+prendre soin,de qqch,de qqn,de faire qqch,null
+se préparer,à qqch,null,à faire qqch,null
+présenter,qqch,à qqn,null,null
+promettre,qqch,à qqn,de faire qqch,null
+proposer,qqch,à qqn | qqn,de faire qqch,qq = suggérer
+raconter,qqch,à qqn,null,null
+rappeler,qqch,à qqn,null,null
+se rappeler,qqch,qqn,faire qqch,null
+recevoir,qqch,de qqn | qqn,null,qqn = inviter
+recommander,qqch,à qqn | qqn,de faire qqch,qqn = proposer
+réfléchir,à qqch,null,null,null
+refuser,qqch,à qqn,de faire qqch,null
+regarder,qqch,qqn,faire qqch,null
+regretter,qqch,qqn,de faire qqch,null
+remercier,null,qqn,de faire qqch,null
+remettre,qqch,à qqn,null,null
+rencontrer,qqch,qqn,null,null
+renoncer,à qqch,à qqn,à faire qqch,null
+répondre,qqch | à qqch,à qqn,null,…à une question
+ressembler,à qqch,à qqn,null,null
+réussir,qqch,null,à faire qqch,mais qqch réussit à qqn
+rêver,à qqch | de qqch,à qqn | de qqn,null,à = quand on dort | de = penser
+rire,de qqch,de qqn,null,null
+risquer,qqch,null,de faire qqch,null
+savoir,qqch,null,faire qqch,null
+servir,qqch | à qqch,qqn | à qqn,à faire qqch,mais qqn sert de guide
+se servir,de qqch,de qqn,null,null
+songer,à qqch,à qqn,à faire qqch,null
+souhaiter,qqch,à qqn,de faire qqch,null
+se souvenir,de qqch,de qqn,de faire qqch,null
+suggérer,qqch,à qqn,de faire qqch,null
+téléphoner,null,à qqn,null,null
+tenir,qqch | à qqch,qqn | à qqn,à faire qqch,null
+tenter,qqch,null,de faire qqch,null
+trouver,qqch,qqn,null,null
+utiliser,qqch,qqn,pour faire qqch,null
+venir,null,chez qqn,faire qqch,null
+visiter,qqch,qqn,null,null
+vouloir,qqch,qqn,faire qqch,null

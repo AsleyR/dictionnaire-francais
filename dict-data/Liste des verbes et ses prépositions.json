@@ -1,0 +1,1052 @@
+[
+ {
+   "verbe": "s'abstenir",
+   "qqch": "de qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "accepter",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "acheter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "s'adapter",
+   "qqch": "à qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "adresser",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "s'adresser",
+   "qqch": null,
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "aider",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "aimer",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "aller",
+   "qqch": null,
+   "qqn": null,
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "s'amuser",
+   "qqch": "à qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "annoncer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "apercevoir",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "s'apercevoir",
+   "qqch": "de qqch",
+   "qqn": null,
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "appeler",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "s'appliquer",
+   "qqch": "à qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "apporter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "apprendre",
+   "qqch": "qqch",
+   "qqn": "à qqn | de qqn",
+   "vi": "à faire qqch",
+   "remarques": "…à l'élève | …du professeur"
+ },
+ {
+   "verbe": "arrêter",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "s'arrêter",
+   "qqch": null,
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "attendre",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "s'attendre",
+   "qqch": "à qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "avoir",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "blesser",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "brosser",
+   "qqch": "qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "cacher",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": "mais on cache qqn"
+ },
+ {
+   "verbe": "cesser",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "chanter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "chercher",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "choisir",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "commencer",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "confirmer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "conseiller",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "continuer",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "contribuer",
+   "qqch": null,
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "convaincre",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "craindre",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "critiquer",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "croire",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "décider",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se décider",
+   "qqch": null,
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "demander",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": "mais je demande à faire qqch"
+ },
+ {
+   "verbe": "dépendre",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "désirer",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "détester",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "devenir",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "devoir",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "dire",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "donner",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "écrire",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "écouter",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "empêcher",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "emprunter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "encourager",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "s'ennuyer",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "enseigner",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "entendre",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "entendre parler",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "envoyer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "espérer",
+   "qqch": "qqch",
+   "qqn": "de qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "essayer",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "éviter",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "excuser",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "s'excuser",
+   "qqch": "de qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "exiger",
+   "qqch": "qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "expliquer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "faire",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "falloir",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se fatiguer",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "féliciter",
+   "qqch": "de qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se fier",
+   "qqch": null,
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "finir",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "habituer",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "s'habituer",
+   "qqch": "à qqch",
+   "qqn": "à qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "hésiter",
+   "qqch": null,
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "interdire",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "s'intéresser",
+   "qqch": "à qqch",
+   "qqn": "à qqn ",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "inviter",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "jouer",
+   "qqch": "à qqch | de qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": "…à un sport | …de la musique"
+ },
+ {
+   "verbe": "laisser",
+   "qqch": "qqch",
+   "qqn": "à qqn / qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "lire",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "louer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "manquer",
+   "qqch": "qqch | de qqch",
+   "qqn": "qqn | à qqn",
+   "vi": "de faire qqch",
+   "remarques": "de = manque | à - sentiments"
+ },
+ {
+   "verbe": "se méfier",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "menacer",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "mériter",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": " null"
+ },
+ {
+   "verbe": "mettre du temps",
+   "qqch": null,
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se mettre",
+   "qqch": "à qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "montrer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "négliger",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "obliger",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "obtenir",
+   "qqch": "qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "s'occuper",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "offrir",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": "mais on offre à qqn de faire qqch"
+ },
+ {
+   "verbe": "s'opposer",
+   "qqch": "à qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "oser",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "faire qqch",
+   "remarques": "mais on ose faire qqch à qqn"
+ },
+ {
+   "verbe": "oublier",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "parler",
+   "qqch": "de qqch",
+   "qqn": "à qqn |0 de qqn",
+   "vi": "de faire qqch",
+   "remarques": "…de qqn d'absent"
+ },
+ {
+   "verbe": "pardonner",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "passer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "payer",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": "mais payer qqch à qqn"
+ },
+ {
+   "verbe": "penser",
+   "qqch": "à qqch | qqch",
+   "qqn": "à qqn | de qqn",
+   "vi": "à faire qqch",
+   "remarques": "de = opinion & idée"
+ },
+ {
+   "verbe": "perdre",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "perdre du temps",
+   "qqch": "à qqch",
+   "qqn": "avec qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "permettre",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "persuader",
+   "qqch": null,
+   "qqn": "qqch",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se plaindre",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "porter",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "pouvoir",
+   "qqch": null,
+   "qqn": null,
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "préférer",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "prendre",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "prendre plaisir",
+   "qqch": null,
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "prendre soin",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se préparer",
+   "qqch": "à qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "présenter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "promettre",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "proposer",
+   "qqch": "qqch",
+   "qqn": "à qqn | qqn",
+   "vi": "de faire qqch",
+   "remarques": "qq = suggérer"
+ },
+ {
+   "verbe": "raconter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "rappeler",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "se rappeler",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "recevoir",
+   "qqch": "qqch",
+   "qqn": "de qqn | qqn",
+   "vi": null,
+   "remarques": "qqn = inviter"
+ },
+ {
+   "verbe": "recommander",
+   "qqch": "qqch",
+   "qqn": "à qqn | qqn",
+   "vi": "de faire qqch",
+   "remarques": "qqn = proposer"
+ },
+ {
+   "verbe": "réfléchir",
+   "qqch": "à qqch",
+   "qqn": null,
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "refuser",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "regarder",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "regretter",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "remercier",
+   "qqch": null,
+   "qqn": "qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "remettre",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "rencontrer",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "renoncer",
+   "qqch": "à qqch",
+   "qqn": "à qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "répondre",
+   "qqch": "qqch | à qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": "…à une question"
+ },
+ {
+   "verbe": "ressembler",
+   "qqch": "à qqch",
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "réussir",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "à faire qqch",
+   "remarques": "mais qqch réussit à qqn"
+ },
+ {
+   "verbe": "rêver",
+   "qqch": "à qqch | de qqch",
+   "qqn": "à qqn | de qqn",
+   "vi": null,
+   "remarques": "à = quand on dort | de = penser"
+ },
+ {
+   "verbe": "rire",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "risquer",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "savoir",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "servir",
+   "qqch": "qqch | à qqch",
+   "qqn": "qqn | à qqn",
+   "vi": "à faire qqch",
+   "remarques": "mais qqn sert de guide"
+ },
+ {
+   "verbe": "se servir",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "songer",
+   "qqch": "à qqch",
+   "qqn": "à qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "souhaiter",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "se souvenir",
+   "qqch": "de qqch",
+   "qqn": "de qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "suggérer",
+   "qqch": "qqch",
+   "qqn": "à qqn",
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "téléphoner",
+   "qqch": null,
+   "qqn": "à qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "tenir",
+   "qqch": "qqch | à qqch",
+   "qqn": "qqn | à qqn",
+   "vi": "à faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "tenter",
+   "qqch": "qqch",
+   "qqn": null,
+   "vi": "de faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "trouver",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "utiliser",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "pour faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "venir",
+   "qqch": null,
+   "qqn": "chez qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ },
+ {
+   "verbe": "visiter",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": null,
+   "remarques": null
+ },
+ {
+   "verbe": "vouloir",
+   "qqch": "qqch",
+   "qqn": "qqn",
+   "vi": "faire qqch",
+   "remarques": null
+ }
+]
