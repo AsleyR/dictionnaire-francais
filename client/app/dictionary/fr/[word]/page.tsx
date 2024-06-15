@@ -3,6 +3,7 @@ import capitalizeFirstLetter from '@/app/(libs)/capitalizeFirstLetter'
 import React from 'react'
 import getVerbeByVerbe from '@/app/(actions)/verbes/getVerbeByVerbe'
 import WordUtilisation from '@/app/(components)/word/WordUtilisation'
+import Link from 'next/link'
 
 interface WordPageProps {
     params: {
@@ -17,8 +18,14 @@ async function page({ params }: WordPageProps) {
 
     if (!verbe) {
         return (
-            <div className="">
-                <p>Verbe not found...</p>
+            <div className="flex flex-col text-center gap-10 md:gap-5 px-5 pt-[5rem] pb-[4rem]">
+                <h2 className='font-bold text-2xl md:text-3xl'>Malheureusement, la page associée à ce verbe n'existe pas.</h2>
+                <div className="flex justify-center">
+                    <Link href={'/'}
+                        className='text-sm md:text-base p-3 w-fit border border-gray-300 hover:border-transparent hover:bg-black/60 hover:text-white duration-200 rounded shadow-sm'>
+                        Page d'accueil
+                    </Link>
+                </div>
             </div>
         )
     }
@@ -48,7 +55,6 @@ async function page({ params }: WordPageProps) {
                 />
             </div>
 
-            {/* TO DO, must fix literal interpretation of verbe values. Ex: null != null in text!  */}
             <WordUtilisation word={verbe} />
         </div>
     )
