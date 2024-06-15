@@ -53,7 +53,7 @@ function RenderSearchResultsString({ search_query }: { search_query?: string }) 
     const truncatedSearchQuery = truncateString(search_query || "", 15)
 
     return (
-        <h2 className='text-2xl'>
+        <h2 className='text-2xl text-center md:text-left'>
             {
                 search_query && search_query.length !== 0 ?
                     `Résultats de recherche "${truncatedSearchQuery}"`
