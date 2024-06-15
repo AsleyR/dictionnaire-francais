@@ -46,9 +46,9 @@ function SearchBar() {
     return (
         <form action=""
             onSubmit={onSubmit}
-            className='text-xl'
+            className='grid grid-cols-[1fr_min-content] text-xl'
         >
-            <div className="flex px-2 space-x-2 bg-white border border-gray-300 items-center rounded-md">
+            <div className="flex px-2 space-x-2 bg-white border-y border-l border-gray-300 items-center rounded-l-md">
                 <input
                     id='search_query'
                     type="text"
@@ -68,6 +68,14 @@ function SearchBar() {
                     />
                 </button>
             </div>
+            <button type='submit'
+                className="bg-blue-600 hover:bg-blue-700 text-gray-50 py-3 px-4 rounded-r shadow-sm duration-300"
+            >
+                <FontAwesomeIcon
+                    className='w-5 h-5'
+                    icon={faMagnifyingGlass}
+                />
+            </button>
         </form>
     )
 }
