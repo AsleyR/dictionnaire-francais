@@ -31,11 +31,13 @@ async function page({ params }: WordPageProps) {
     if (!verbe) {
         return (
             <div className="flex flex-col text-center gap-10 md:gap-5 px-5 pt-[5rem] pb-[4rem]">
-                <h2 className='font-bold text-2xl md:text-3xl'>Malheureusement, la page associée à ce verbe n'existe pas.</h2>
+                <h2 className='font-bold text-2xl md:text-3xl'>{
+                    `Malheureusement, la page associée à ce verbe n'existe pas.`}
+                </h2>
                 <div className="flex justify-center">
                     <Link href={'/'}
                         className='text-sm md:text-base p-3 w-fit border border-gray-300 hover:border-transparent hover:bg-black/60 hover:text-white duration-200 rounded shadow-sm'>
-                        Page d'accueil
+                        {`Page d'accueil`}
                     </Link>
                 </div>
             </div>
