@@ -1,6 +1,6 @@
 <div align="center">
+<img src="./client/app/icon.svg" width=100 height=100>
     <h1>Dictionnaire Français</h1>
-    <p>Made by: Asley R.</p>
 </div>
 
 <h2>Table of Contents</h2>
@@ -10,7 +10,7 @@
 
 ## About
 
-Pending.
+French dictionary of prepositions made using [Next.js](https://nextjs.org/) and [Prisma](https://www.prisma.io/); styled using [Tailwind CSS](https://0tailwindcss.com/).
 
 ## License
 
