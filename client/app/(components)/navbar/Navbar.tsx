@@ -20,9 +20,9 @@ function Navbar() {
                     <div className="hidden lg:block">
                         <NavbarSearch />
                     </div>
-                    <li>
+                    {/* <li>
                         <Link href={'/'} className='hover:text-gray-500 transition-all'>Log In</Link>
-                    </li>
+                    </li> */}
                 </ul>
             </div>
         </nav>
