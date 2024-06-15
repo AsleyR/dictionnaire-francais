@@ -39,7 +39,6 @@ function MobileNavbarSearch(props: NavbarSearchProps) {
         document.getElementById('search_query')?.focus()
     }
 
-    // To CHANGE, missing re-routing logic
     const onSubmit = (e: React.FormEvent) => {
         e.preventDefault()
 
