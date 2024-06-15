@@ -1,5 +1,6 @@
 import getVerbesByQuery from '@/app/(actions)/verbes/getVerbesByQuery'
 import { Word } from '@/app/(libs)/@types/index.t'
+import truncateString from '@/app/(libs)/truncateString'
 import Link from 'next/link'
 import React from 'react'
 
@@ -30,11 +31,13 @@ function RenderVerbesResults(props: { verbes: Word[] }) {
 }
 
 function RenderSearchResultsString({ search_query }: { search_query?: string }) {
+    const truncatedSearchQuery = truncateString(search_query || "", 15)
+
     return (
         <h2 className='text-2xl'>
             {
                 search_query && search_query.length !== 0 ?
-                    `Résultats de rechereche "${search_query}"`
+                    `Résultats de recherche "${truncatedSearchQuery}"`
                     :
                     "Résultats de recherche"
             }
@@ -51,6 +54,7 @@ async function page({ searchParams }: DictionarySearchResults) {
         return (
             <div className='flex flex-col space-y-5 px-mobilex md:px-normalx pt-[3rem] pb-[4rem]'>
                 <RenderSearchResultsString search_query={decodedSearchQuery} />
+                <hr></hr>
                 <h3 className='font-bold text-xl text-center'>Aucun résultat trouvé</h3>
             </div>
         )
@@ -60,6 +64,7 @@ async function page({ searchParams }: DictionarySearchResults) {
     return (
         <div className='flex flex-col space-y-5 px-mobilex md:px-normalx pt-[3rem] pb-[4rem]'>
             <RenderSearchResultsString search_query={decodedSearchQuery} />
+            <hr></hr>
             <RenderVerbesResults verbes={verbes} />
         </div>
     )
