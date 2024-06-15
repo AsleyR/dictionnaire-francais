@@ -11,6 +11,18 @@ interface WordPageProps {
     }
 }
 
+type MetadataProps = {
+    params: { word: string }
+}
+
+export async function generateMetadata({ params }: MetadataProps) {
+    let verbe = await getVerbeByVerbe(params.word).then(verbe => verbe?.verbe)
+
+    return {
+        title: `${verbe} - Dictionnaire français`
+    }
+}
+
 async function page({ params }: WordPageProps) {
     const decodedParams = decodeURIComponent(params.word || "")
 
