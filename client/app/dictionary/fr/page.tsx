@@ -10,6 +10,25 @@ interface DictionarySearchResults {
     }
 }
 
+type MetadataProps = {
+    searchParams: {
+        search_query?: string
+    }
+}
+
+export async function generateMetadata({ searchParams }: MetadataProps) {
+
+    if (!searchParams.search_query || searchParams.search_query?.length === 0) {
+        return {
+            title: "Recherche - Dictionnaire français"
+        }
+    }
+
+    return {
+        title: `${searchParams.search_query} - Dictionnaire français`
+    }
+}
+
 function RenderVerbesResults(props: { verbes: Word[] }) {
     return (
         <ul className='grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 items-center'>
