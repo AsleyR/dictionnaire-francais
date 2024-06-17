@@ -7,11 +7,15 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model verbes {
-  id        String  @id @default(auto()) @map("_id") @db.ObjectId
+type VerbesPrepositions {
   qqch      String?
   qqn       String?
   remarques String?
-  verbe     String
   vi        String?
+}
+
+model verbes {
+  id           String             @id @default(auto()) @map("_id") @db.ObjectId
+  prepositions VerbesPrepositions
+  verbe        String
 }
