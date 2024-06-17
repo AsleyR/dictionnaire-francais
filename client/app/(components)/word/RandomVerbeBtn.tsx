@@ -6,7 +6,7 @@ export default async function RandomVerbeBtn() {
 
     return (
         <a href={`/dictionary/fr/${randomVerbe}`}
-            className='text-sm md:text-base p-3 w-fit border border-gray-300 hover:border-transparent hover:bg-black/60 hover:text-white duration-200 rounded shadow-sm'
+            className='text-sm md:text-base p-3 w-fit border border-gray-300 hover:border-transparent bg-blue-600 hover:bg-blue-700 text-white duration-300 rounded shadow-sm'
         >
             <p>{`J'ai de la chance`}</p>
         </a>
