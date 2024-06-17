@@ -48,7 +48,7 @@ async function page({ params }: WordPageProps) {
 
     return (
         <div className='px-mobilex md:px-normalx pt-[3rem] text-xl space-y-5 pb-[4rem]'>
-            <h1 className='font-bold text-2xl'>{capitalizedVerbe}</h1>
+            <h1 className='font-bold text-3xl text-blue-800'>{capitalizedVerbe}</h1>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
                 <VerbeInfoBlockContainer
