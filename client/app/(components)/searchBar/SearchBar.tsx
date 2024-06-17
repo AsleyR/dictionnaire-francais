@@ -58,7 +58,7 @@ function SearchBar() {
                     className='px-2 py-3 w-full focus:outline-none rounded-md'
                     placeholder='Rechercher un mot...'
                 />
-                <button type="button" className={values.search_query.length != 0 ? `text-gray-900 hover:text-gray-500` : "text-white"}
+                <button type="button" className={values.search_query.length != 0 ? `text-gray-900 hover:text-gray-500 p-2` : "text-white"}
                     onClick={handleDeleteBtn}
                     disabled={values.search_query ? false : true}
                 >
