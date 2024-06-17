@@ -1,8 +1,7 @@
 import getVerbesByQuery from '@/app/(actions)/verbes/getVerbesByQuery'
+import VerbeResult from '@/app/(components)/word/VerbeResult'
 import { Word } from '@/app/(libs)/@types/index.t'
-import capitalizeFirstLetter from '@/app/(libs)/capitalizeFirstLetter'
 import truncateString from '@/app/(libs)/truncateString'
-import Link from 'next/link'
 import React from 'react'
 
 interface DictionarySearchResults {
@@ -32,16 +31,13 @@ export async function generateMetadata({ searchParams }: MetadataProps) {
 
 function RenderVerbesResults(props: { verbes: Word[] }) {
     return (
-        <ul className='grid grid-cols-1 gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 items-center'>
+        <ul className='grid gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 items-center'>
             {
-                props.verbes.map((verb, index) => {
+                props.verbes.map((verbe, index) => {
                     return (
                         <li key={`${index}-verbe-result`}
-                            className="w-full p-3 hover:bg-gray-100 duration-200 border border-gray-200 rounded shadow-sm"
                         >
-                            <Link href={`/dictionary/fr/${verb.verbe}`}>
-                                <h3 className='font-bold text-lg'>{capitalizeFirstLetter(verb.verbe)}</h3>
-                            </Link>
+                            <VerbeResult verbe={verbe} />
                         </li>
                     )
                 })
