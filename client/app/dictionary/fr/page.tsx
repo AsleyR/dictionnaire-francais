@@ -1,5 +1,6 @@
 import getVerbesByQuery from '@/app/(actions)/verbes/getVerbesByQuery'
 import { Word } from '@/app/(libs)/@types/index.t'
+import capitalizeFirstLetter from '@/app/(libs)/capitalizeFirstLetter'
 import truncateString from '@/app/(libs)/truncateString'
 import Link from 'next/link'
 import React from 'react'
@@ -39,7 +40,7 @@ function RenderVerbesResults(props: { verbes: Word[] }) {
                             className="w-full p-3 hover:bg-gray-100 duration-200 border border-gray-200 rounded shadow-sm"
                         >
                             <Link href={`/dictionary/fr/${verb.verbe}`}>
-                                <h3 className='font-bold text-lg'>{verb.verbe}</h3>
+                                <h3 className='font-bold text-lg'>{capitalizeFirstLetter(verb.verbe)}</h3>
                             </Link>
                         </li>
                     )

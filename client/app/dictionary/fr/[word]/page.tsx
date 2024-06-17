@@ -53,19 +53,19 @@ async function page({ params }: WordPageProps) {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
                 <VerbeInfoBlockContainer
                     header={"Quelque Chose"}
-                    body={verbe.qqch}
+                    body={verbe.prepositions.qqch}
                 />
                 <VerbeInfoBlockContainer
                     header={"Quelqu'un"}
-                    body={verbe.qqn}
+                    body={verbe.prepositions.qqn}
                 />
                 <VerbeInfoBlockContainer
                     header={"Verbe Infinitif"}
-                    body={verbe.vi}
+                    body={verbe.prepositions.vi}
                 />
                 <VerbeInfoBlockContainer
                     header={"Remarques"}
-                    body={verbe.remarques}
+                    body={verbe.prepositions.remarques}
                 />
             </div>
 

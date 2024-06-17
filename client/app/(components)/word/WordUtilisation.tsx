@@ -13,20 +13,20 @@ export default function WordUtilisation({ word }: { word: Word }) {
         }
 
         // Assuming word.vi is not null
-        if (word.vi && vi) {
-            const replaceQqchAndQqchWord = replaceQqnAndQqch(word.vi)
+        if (word.prepositions.vi && vi) {
+            const replaceQqchAndQqchWord = replaceQqnAndQqch(word.prepositions.vi)
             constructedWord = `${constructedWord} ${replaceQqchAndQqchWord}`
 
             return constructedWord
         }
 
-        if (word.qqch) {
-            const replaceQqchWord = replaceQqnAndQqch(word.qqch)
+        if (word.prepositions.qqch) {
+            const replaceQqchWord = replaceQqnAndQqch(word.prepositions.qqch)
             constructedWord = `${constructedWord} ${replaceQqchWord}`
         }
 
-        if (word.qqn) {
-            const replaceQqnhWord = replaceQqnAndQqch(word.qqn)
+        if (word.prepositions.qqn) {
+            const replaceQqnhWord = replaceQqnAndQqch(word.prepositions.qqn)
             constructedWord = `${constructedWord} ${replaceQqnhWord}`
         }
 
@@ -38,12 +38,12 @@ export default function WordUtilisation({ word }: { word: Word }) {
             <h3>Usage</h3>
             <div className="flex flex-col gap-2 p-5 border border-gray-200 shadow-sm rounded">
                 {
-                    word.qqch || word.qqn ?
+                    word.prepositions.qqch || word.prepositions.qqn ?
                         <p>{wordExamplesString(word, false)}</p>
                         : null
                 }
                 {
-                    word.vi ? <p>{`${wordExamplesString(word, true)}`}</p> : null
+                    word.prepositions.vi ? <p>{`${wordExamplesString(word, true)}`}</p> : null
                 }
             </div>
         </div>
