@@ -1,5 +1,4 @@
-import { PrismaClient } from '@prisma/client'
-const prisma = new PrismaClient()
+import { prisma } from "@/app/(libs)/client"
 
 // Used for searching verbes
 export default async function getVerbesByQuery(verbe: string) {
